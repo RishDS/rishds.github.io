@@ -7,3 +7,7 @@ If you are interested in exploring the latest trends in machine learning or look
 So, come and explore my project portfolio, learn more about my journey as a Python developer and machine learning enthusiast, and take advantage of my expertise in these fields. Thank you for visiting my site and I look forward to sharing my passion with you!
 
 Keywords: Python developer, machine learning enthusiast, project portfolio, advanced applications, latest trends, proficiency, inspiration.
+
+[ML Notes](https://rishds.github.io/ML/)
+Project 1
+project 2
