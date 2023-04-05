@@ -8,6 +8,6 @@ So, come and explore my project portfolio, learn more about my journey as a Pyth
 
 Keywords: Python developer, machine learning enthusiast, project portfolio, advanced applications, latest trends, proficiency, inspiration.
 
-*[ML Notes](https://rishds.github.io/ML/)
-*Project 1
-*project 2
+* [ML Notes](https://rishds.github.io/ML/)
+* Project 1
+* project 2
