@@ -1,6 +1,6 @@
 
 <insert image>
-Welcome to my new website! As a skilled Python developer and machine learning enthusiast, I'm excited to showcase my project portfolio in these fields. My name is __Rishbha__, and through this platform, I want to share my knowledge and skills with the wider community.
+Welcome to my new website! As a skilled Python developer and machine learning enthusiast, I'm excited to showcase my project portfolio in these fields. My name is __Rishbha__ and through this platform, I want to share my knowledge and skills with the wider community.
 
 If you are interested in exploring the latest trends in machine learning or looking for inspiration for your next Python project, you have come to the right place. My project portfolio covers a diverse range of projects, from beginner-level to advanced applications, that demonstrate my proficiency in these areas.
 
